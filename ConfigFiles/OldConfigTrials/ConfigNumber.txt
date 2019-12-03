@@ -1,0 +1,4 @@
+AgentsInSimulation: 10
+Type1: 50
+Type2: 25
+Type3: 25

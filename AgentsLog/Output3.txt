@@ -1,0 +1,10 @@
+Agent: Damiano Position: (269.6, 0.1, -252.6) in Kitchen Time: 0
+Agent: Damiano Position: (266.4, 3.3, -245.7) in Kitchen Time: 1,521432
+Agent: Damiano Position: (264.4, 3.3, -235.1) in Kitchen Time: 3,029432
+Agent: Damiano Position: (262.8, 3.3, -224.6) in Kitchen Time: 4,528875
+Agent: Damiano Position: (262.3, 3.3, -213.9) in Corridor Time: 6,038135
+Agent: Damiano Position: (263.7, 3.3, -203.1) in Corridor Time: 7,530949
+Agent: Damiano Position: (265.1, 3.3, -192.2) in Corridor Time: 9,030769
+Agent: Damiano Position: (266.5, 3.3, -181.4) in Corridor Time: 10,52439
+Agent: Damiano Position: (267.9, 3.3, -170.5) in Corridor Time: 12,03094
+Agent: Damiano Position: (269.3, 3.3, -159.7) in Corridor Time: 13,53334

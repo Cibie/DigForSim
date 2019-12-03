@@ -1,0 +1,10 @@
+Agent: Alex Position: (302.3, 2.1, -348.5) in Bedroom Time: 0
+Agent: Alex Position: (293.9, 3.3, -343.0) in Bedroom Time: 1,521432
+Agent: Alex Position: (286.9, 3.3, -335.2) in Bedroom Time: 3,029432
+Agent: Alex Position: (279.9, 3.3, -327.4) in Bedroom Time: 4,528875
+Agent: Alex Position: (272.8, 3.3, -319.5) in Bedroom Time: 6,038135
+Agent: Alex Position: (265.9, 3.3, -311.7) in Bedroom Time: 7,530949
+Agent: Alex Position: (258.8, 3.3, -303.9) in Bedroom Time: 9,030769
+Agent: Alex Position: (251.9, 3.3, -296.1) in Bedroom Time: 10,52439
+Agent: Alex Position: (245.1, 3.3, -288.2) in Kitchen Time: 12,03094
+Agent: Alex Position: (246.1, 3.3, -278.1) in Kitchen Time: 13,53334

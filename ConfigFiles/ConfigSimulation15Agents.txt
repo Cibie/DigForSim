@@ -1,0 +1,28 @@
+Log Time interval
+1
+
+Objective Creation:
+KitchenTable Kitchen
+
+Agents Quantity
+AgentsInSimulation: 60
+FastWanderingAgents: 15 30 1 20
+MediumWanderingAgents: 40 20 1 10
+SlowWanderingAgents: 45 15 1 5
+
+Special Agent
+Giulio Kitchen red 15 Sofa 10
+Jack LivingRoom yellow 10 Fridge 3 Table 15 Bed 10
+Rosa Bathroom green 8 Bed 4 Television 1 Sofa 10
+Damiano Kitchen blue 15 Corridor 1 LivingRoom 1 Table 5 WC 10
+Alex Bed grey 16 Corridor 1 Shelf 5 Table 10
+Carl Fridge black 20 BathroomSink 7 Shelf 6 Bedroom 5
+Kraig Corridor white 7 Shelf 2 Fridge 3 KitchenTable 10
+Fabio Bed green 14 WC 2 Shelf 1 Bed 1
+Gianni DiningRoomTable magenta 17 WC 1 Sofa 2 DiningRoomTable 3
+Franco LivingRoom red 12 DiningRoom 1 Bedroom 1 Kitchen 1 Fridge 1
+Talita DiningRoom green 7 Fridge 1 Bed 1
+David WC blue 10 Kitchen 1 DiningRoomTable 2 Sofa 3
+Laura BathroomSink yellow 2 Bed 1 Fridge 1
+Marco Bed red 10 Kitchen 1 DiningRoom 1 LivingRoom 1 Sofa 1
+Alexander Bedroom magenta 15 Bathroom 1 WC 1

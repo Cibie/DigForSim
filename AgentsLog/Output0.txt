@@ -1,0 +1,10 @@
+Agent: Giulio Position: (269.6, 0.1, -252.6) in Kitchen Time: 0
+Agent: Giulio Position: (269.2, 3.3, -244.4) in Kitchen Time: 1,521432
+Agent: Giulio Position: (266.4, 3.3, -232.8) in Kitchen Time: 3,029432
+Agent: Giulio Position: (262.9, 3.3, -221.5) in Kitchen Time: 4,528875
+Agent: Giulio Position: (259.5, 3.3, -210.1) in Corridor Time: 6,038135
+Agent: Giulio Position: (256.5, 3.3, -198.5) in Corridor Time: 7,530949
+Agent: Giulio Position: (253.3, 3.3, -187.2) in Corridor Time: 9,030769
+Agent: Giulio Position: (250.4, 3.3, -175.6) in Corridor Time: 10,52439
+Agent: Giulio Position: (247.2, 3.3, -164.2) in Corridor Time: 12,03094
+Agent: Giulio Position: (240.8, 3.3, -163.9) in LivingRoom Time: 13,53334

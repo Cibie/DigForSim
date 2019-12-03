@@ -1,0 +1,10 @@
+Agent: Rosa Position: (329.6, 0.1, -152.6) in Bathroom Time: 0
+Agent: Rosa Position: (323.6, 3.3, -157.9) in Bathroom Time: 1,521432
+Agent: Rosa Position: (314.6, 3.3, -165.8) in Bathroom Time: 3,029432
+Agent: Rosa Position: (305.5, 3.3, -173.7) in Bathroom Time: 4,528875
+Agent: Rosa Position: (296.5, 3.3, -181.7) in Bathroom Time: 6,038135
+Agent: Rosa Position: (287.9, 3.3, -190.0) in Corridor Time: 7,530949
+Agent: Rosa Position: (279.4, 3.3, -198.4) in Corridor Time: 9,030769
+Agent: Rosa Position: (270.9, 3.3, -206.9) in Corridor Time: 10,52439
+Agent: Rosa Position: (263.8, 3.3, -214.0) in Corridor Time: 12,03094
+Agent: Rosa Position: (259.9, 3.3, -223.0) in Kitchen Time: 13,53334

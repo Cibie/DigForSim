@@ -1,0 +1,10 @@
+Agent: Carl Position: (319.4, 2.1, -283.3) in Kitchen Time: 0
+Agent: Carl Position: (312.7, 3.3, -273.6) in Kitchen Time: 1,521432
+Agent: Carl Position: (301.9, 3.3, -262.1) in Kitchen Time: 3,029432
+Agent: Carl Position: (291.3, 3.3, -250.7) in Kitchen Time: 4,528875
+Agent: Carl Position: (280.5, 3.3, -239.6) in Kitchen Time: 6,038135
+Agent: Carl Position: (270.0, 3.3, -228.2) in Kitchen Time: 7,530949
+Agent: Carl Position: (260.0, 3.3, -216.6) in Corridor Time: 9,030769
+Agent: Carl Position: (262.8, 3.3, -206.0) in Corridor Time: 10,52439
+Agent: Carl Position: (275.6, 3.3, -196.9) in Corridor Time: 12,03094
+Agent: Carl Position: (288.4, 3.3, -188.0) in Corridor Time: 13,53334
